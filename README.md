@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I’m Matthew-ljm! 👋
 
-<!--
-**Matthew-ljm/Matthew-ljm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **学生 | 编程爱好者**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 关于我
+
+- 热爱编程，目前是一名在读学生。
+- 精通 **Python**、**HTML**，前后端 API 与数据库操作同样游刃有余。
+- 熟悉 **Node.js** 和 **C++**，不断拓展自己的技术领域。
+- 喜欢探索和创造高效实用的工具与软件。
+
+---
+
+## 🌟 代表项目
+
+### [M-Code 个人网站](https://m-code.top/)
+> 一个实用工具与创意软件的聚集地，包含实时协作编辑器等多种功能，仓库体积高达 **1.18GB**！
+
+- 多种网页小工具，满足日常学习开发需求
+- 自创软件与开放源码项目
+- 实时协作编辑器，提升团队效率
+- 持续迭代与优化，欢迎体验和交流！
+
+---
+
+## 🛠️ 技能栈
+
+- **精通：** Python、HTML、API 设计、数据库管理
+- **熟悉：** Node.js、C++
+- **其他兴趣：** 前后端开发、自动化工具、实时协作系统
+
+---
+
+## 📫 联系方式
+
+- 个人网站：[https://m-code.top/](https://m-code.top/)
+- 你可以通过 Issues 或 Pull Requests 直接与我交流！
+
+---
+
+> “代码如诗，每一行都是我梦想的韵脚。”
+
+感谢你的访问，欢迎 Star 和交流！
